@@ -44,7 +44,7 @@
           cd <sample_dir>/functions
           npm install actions-on-google
        
-  Write your code inside index.js which can be found insite your newly created folder. For reference use the sample code given.
+  Write your code inside index.js which can be found insite your newly created folder. For reference use the sample code [HERE](https://github.com/rahulchauhan049/workshop_webhook/blob/master/index.js).
    
   10. Get the fulfillment dependencies and deploy the fulfillment function:
 
